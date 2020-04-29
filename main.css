@@ -1,0 +1,29 @@
+body{
+	background: #2A2A2A;
+	font-family: arial;
+	margin: 0;
+}
+
+header {	
+	background: #2A2A2A;
+	color: white;
+}
+
+header h1 {
+	margin: 0;
+}
+
+nav ul {
+	margin: 0;
+}
+
+nav ul li {
+	color: #7A7A7A;
+	display: inline-block;
+	list-style-type: none;
+	margin: 10px;
+}
+
+nav ul li a {
+	color: #7A7A7A;
+}
